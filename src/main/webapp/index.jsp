@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "byee world" %></h2>
+<h2><%= "automated" %></h2>
 </body>
 </html>
